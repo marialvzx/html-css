@@ -1,0 +1,36 @@
+@charset "utf8";
+
+* {
+    font-family: 'VT323', monospace;
+}
+
+body {
+   background-image: linear-gradient(to right, #D9D1BA, #D9ACA3, #D98B84);
+
+}
+
+main {
+   background-color: white;
+   border-radius: 10px;
+   text-align: center;
+   width: 1400px;
+   padding: 10px;
+   margin: auto;
+}
+
+h1 {
+   text-align: center;
+   color: #D97373;
+   text-shadow: 1px 1px 0px #d973738a;
+    
+}
+
+h2 {
+    text-align: center;
+    color:#D97373;
+    text-shadow: 1px 1px 0px #d973739a;
+}
+
+ul {
+    text-align: justify;
+}
